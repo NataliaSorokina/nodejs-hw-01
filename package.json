@@ -20,5 +20,9 @@
   "homepage": "https://github.com/NataliaSorokina/nodejs-hw-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "commander": "^8.3.0",
+    "uuid": "^8.3.2"
   }
 }
